@@ -4,7 +4,7 @@ tagline:             ''
 description:         ''
 url:                 https://peonies22.github.io
 baseurl:             ''
-paginate:            2
+paginate:            5
 permalink:           pretty
 
 
