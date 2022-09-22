@@ -1,10 +1,10 @@
 # Setup
 title:               Lunbrilo
-tagline:             'A blog'
+tagline:             ''
 description:         ''
 url:                 https://peonies22.github.io
 baseurl:             ''
-#paginate:            5
+paginate:            1
 permalink:           pretty
 
 
