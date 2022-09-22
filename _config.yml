@@ -4,14 +4,10 @@ tagline:             'A blog'
 description:         ''
 url:                 https://peonies22.github.io
 baseurl:             ''
-paginate:            5
+#paginate:            5
 permalink:           pretty
 
 
 # Gems
 plugins:
   - jekyll-paginate
-
-# Custom vars
-version:             1.1.0
-google_analytics_id: UA-146052-15
